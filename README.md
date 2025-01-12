@@ -1,3 +1,4 @@
+![Housing Prices](0305_638001148611492375.jpg)
 
 # Housing Price Prediction (IE7275 Data Mining)
 
